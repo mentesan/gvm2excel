@@ -1,0 +1,6 @@
+# Customer reports contain confidential data and must remain local.
+*.xml
+
+# Generated workbooks and binaries are build artifacts.
+*.xlsx
+/gvm2excel
